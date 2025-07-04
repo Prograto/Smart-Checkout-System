@@ -136,6 +136,7 @@ smart-check-out/
    * Upload `esp8266_code/smart_trolley.ino` to the board using Arduino IDE.
 
 ---
+Deployed web app link : https://smartcheckoutui.onrender.com/
 
 ## 📸 Screenshots
 
